@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV203: Introduction to Management"
+course_description: "The objective of this course is to provide new supervisors or managers with the basic, practical knowledge necessary for their new positions."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: What is Management?** <span id="2"></span> 
 *In this unit, you will gain an understanding of basic management theory
 and the four functions of management that serve as its foundation. Later

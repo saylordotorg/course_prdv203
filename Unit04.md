@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV203: Introduction to Management"
+course_description: "The objective of this course is to provide new supervisors or managers with the basic, practical knowledge necessary for their new positions."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Communication, Conflict, and Negotiation** <span
 id="4"></span> 
 *Good communication skills are essential in all walks of life, and your

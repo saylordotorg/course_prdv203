@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV203: Introduction to Management"
+course_description: "The objective of this course is to provide new supervisors or managers with the basic, practical knowledge necessary for their new positions."
+next: ../../../
+previous: ../Unit09
+---
 **Unit 10: Team Building and Leading** <span id="10"></span> 
 *Congratulations! You have made it to the last unit; you are almost
 done! With an understanding of what a team is and its intended

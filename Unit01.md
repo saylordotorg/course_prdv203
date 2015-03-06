@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV203: Introduction to Management"
+course_description: "The objective of this course is to provide new supervisors or managers with the basic, practical knowledge necessary for their new positions."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Your Personal Journey to a Supervisory Position** <span
 id="1"></span> 
 *If you are new to management or hoping to achieve a management

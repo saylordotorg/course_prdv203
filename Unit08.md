@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV203: Introduction to Management"
+course_description: "The objective of this course is to provide new supervisors or managers with the basic, practical knowledge necessary for their new positions."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Goals, Objectives and Performance Management** <span
 id="8"></span> 
 *One of a manager’s tasks is to let employees know how well they are

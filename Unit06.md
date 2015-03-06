@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV203: Introduction to Management"
+course_description: "The objective of this course is to provide new supervisors or managers with the basic, practical knowledge necessary for their new positions."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Diversity In the Workplace** <span id="6"></span> 
 *A 2009 study done by a University of Illinois sociologist showed that
 the companies with the highest levels of diversity reported, on average,

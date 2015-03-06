@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV203: Introduction to Management"
+course_description: "The objective of this course is to provide new supervisors or managers with the basic, practical knowledge necessary for their new positions."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Leadership** <span id="3"></span> 
 *You have already read that leadership is the third of the four
 functions of management. Leadership – the ability to lead, motivate, and

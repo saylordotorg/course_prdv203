@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV203: Introduction to Management"
+course_description: "The objective of this course is to provide new supervisors or managers with the basic, practical knowledge necessary for their new positions."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: About Groups and Teams** <span id="9"></span> 
 *When people hear the word* team*they usually think of sports. Teams,
 however, also are associated with organizations of all types – business,

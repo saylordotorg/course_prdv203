@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PRDV203: Introduction to Management"
+course_description: "The objective of this course is to provide new supervisors or managers with the basic, practical knowledge necessary for their new positions."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Motivation** <span id="7"></span> 
 *Motivation concerns not only business managers, but also coaches and
 teachers. In this unit, we will learn the meaning of motivation, and
