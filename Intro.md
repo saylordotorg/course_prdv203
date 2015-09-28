@@ -134,3 +134,4 @@ subunit 1.4 (4 hours) over a series of nights.
 - [Unit 8](https://legacy.saylor.org/prdv203/Unit08/)
 - [Unit 9](https://legacy.saylor.org/prdv203/Unit09/)
 - [Unit 10](https://legacy.saylor.org/prdv203/Unit10/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PRDV/PRDV203/PRDV203-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PRDV/PRDV203/PRDV203-FinalExam-Answers.html)
