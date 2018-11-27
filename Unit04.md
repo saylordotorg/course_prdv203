@@ -46,7 +46,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *Principles of Management*: “Chapter 12: Communication in
     Organizations”**
     Link: *[Principles of
-    Management](http://www.saylor.org/site/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 12: Communication in Organizations”  
         
      Instructions: Read Chapter 12, “Communication in Organizations,” on
@@ -66,7 +66,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Activity: *Principles of Management*: “Chapter 12, Section 1: The
     Communication Process -Exercises”**
     Link: *[Principles of
-    Management](http://www.saylor.org/site/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 12, Section 1: The Communication
     Process -Exercises”  
         
@@ -85,7 +85,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Activity: *Principles of Management*: “Chapter 12, Section 2:
     Communication Barriers -Exercises”**
     Link: *[Principles of
-    Management](http://www.saylor.org/site/textbooks/Principles%20of%20Management.pdf) *(PDF):
+    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf) *(PDF):
     “Chapter 12, Section 2: Communication Barriers -Exercises”  
         
      Instructions: Review the section “Communication Barriers” on pages
@@ -103,7 +103,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Activity: *Principles of Management*: “Chapter 12, Section 3:
     Different Types of Communication -Exercises”**
     Link: *[Principles of
-    Management](http://www.saylor.org/site/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 12, Section 3: Different Types of
     Communication -Exercises”  
         
@@ -126,7 +126,7 @@ Negotiation** <span id="4.2"></span> 
 -   **Reading: *Organizational Behavior*: “Chapter 10: Conflict and
     Negotiations”**
     Link: *[Organizational
-    Behavior](http://www.saylor.org/site/textbooks/Organizational%20Behavior.pdf)*
+    Behavior](https://resources.saylor.org/archived/textbooks/Organizational%20Behavior.pdf)*
     (PDF): “Chapter 10: Conflict and Negotiations”  
         
      Instructions: Read Chapter 10, “Conflict and Negotiations,” on
@@ -149,7 +149,7 @@ Negotiation** <span id="4.2"></span> 
     Started,” “Section 1: Text, E-mail, and Netiquette,” and “Section 2:
     Memorandums and Letters”**
     Link: *[Business Communication for
-    Success](http://www.saylor.org/site/textbooks/Business%20Communication%20for%20Success.pdf) *(PDF):
+    Success](https://resources.saylor.org/archived/textbooks/Business%20Communication%20for%20Success.pdf) *(PDF):
     “Chapter 9: Getting Started,” “Section 1: Text, E-mail, and
     Netiquette,” and “Section 2: Memorandums and Letters”  
         
@@ -169,7 +169,7 @@ Negotiation** <span id="4.2"></span> 
 -   **Reading: *Business Communication for Success*: “Chapter 9, Section
     4: Report”**
     Link: *[Business Communication for
-    Success](http://www.saylor.org/site/textbooks/Business%20Communication%20for%20Success.pdf) *(PDF):
+    Success](https://resources.saylor.org/archived/textbooks/Business%20Communication%20for%20Success.pdf) *(PDF):
     “Chapter 9, Section 4: Report”  
         
      Instructions: Read the “Report” section on pages 344-353 to learn
