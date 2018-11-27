@@ -57,7 +57,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *Principles of Management*: “Chapter 11, Section 1:
     Understanding Decision Making”**
     Link: *[Principles of
-    Management](http://www.saylor.org/site/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 11, Section 1: Understanding Decision Making”  
         
      Instructions: Read pages 426-435 of the “Understanding Decision
@@ -73,7 +73,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *Principles of Management*: “Chapter 11, Section 2:
     Faulty Decision Making”**
     Link: *[Principles of
-    Management](http://www.saylor.org/site/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 11, Section 2: Faulty Decision Making”  
         
      Instructions: Read pages 441-446 in the “Faulty Decision-Making”
@@ -185,7 +185,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *Principles of Management*: “Chapter 11, Section 1:
     Understanding Decision Making”**
     Link: *[Principles of
-    Management](http://www.saylor.org/site/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 11, Section 1: Understanding Decision Making”  
         
      Instructions: Read pages 435-439 of the “Understanding Decision
@@ -204,7 +204,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Activity: *Principles of Management*: “Chapter 10, Section 3:
     Vroom and Yetton’s Normative Decision Model”**
     Link: *[Principles of
-    Management](http://www.saylor.org/site/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 10, Section 3: Vroom and Yetton’s Normative Decision
     Model”  
         
@@ -226,7 +226,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Activity: *Principles of Management*: “Chapter 11, Section 1:
     Understanding Decision Making -Exercises”**
     Link: *[Principles of
-    Management](http://www.saylor.org/site/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 11, Section 1: Understanding Decision
     Making -Exercises”  
         

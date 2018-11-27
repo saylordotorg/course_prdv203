@@ -41,7 +41,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *Principles of Management*: “Chapter 6: Goals and
     Objectives”**
     Link: *[Principles of
-    Management](http://www.saylor.org/site/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 6: Goals and Objectives”  
         
      Instructions: Read Chapter 6, “Goals and Objectives,” on pages
@@ -70,7 +70,7 @@ Upon successful completion of this unit, you will be able to:
 **8.2 Your Personal Balanced Scorecard** <span id="8.2"></span> 
 -   **Activity: *Principles of Management*: “Chapter 6: Exercises”**
     Link: *[Principles of
-    Management](http://www.saylor.org/site/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 6: Exercises”  
         
      Instructions: Perform the exercises on page 275 at the end of
