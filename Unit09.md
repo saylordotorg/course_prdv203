@@ -40,7 +40,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *Principles of Management*: “Chapter 13, Introduction”
     and “Section 1: Group Dynamics”**
     Link: *[Principles of
-    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 13, Introduction” and “Section 1: Group Dynamics”  
         
      Instructions: Read the introduction and Section 1 of Chapter 13,
@@ -63,7 +63,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Activity: *Principles of Management*: “Chapter 13, Section 1:
     Group Dynamics -Exercises”**
     Link: *[Principles of
-    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 13, Section 1: Group Dynamics -Exercises”  
         
      Instructions: Answer the questions given in the “Exercises” section

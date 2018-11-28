@@ -48,7 +48,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *Principles of Management*: “Chapter 13: Managing Groups
     and Teams”**
     Link: *[Principles of
-    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 13: Managing Groups and Teams”  
         
      Instructions: Read Chapter 13, “Managing Groups and Teams,”
@@ -73,7 +73,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Activity: *Principles of Management*: “Chapter 13, Section 2:
     Understanding Team Design Characteristics -Exercises”**
     Link: *[Principles of
-    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 13, Section 2: Understanding Team Design
     Characteristics -Exercises”  
         
@@ -109,7 +109,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Activity: *Principles of Management* “Chapter 13, Section 4:
     Barriers to Effective Teams -Exercises”**
     Link: *[Principles of
-    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 13, Section 4: Barriers to Effective
     Teams -Exercises”  
         
@@ -146,7 +146,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Activity: *Principles of Management*: “Chapter 13, Section 3:
     Organizing Effective Teams -Exercises”**
     Link: *[Principles of
-    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 13, Section 3: Organizing Effective
     Teams -Exercises”  
         
@@ -255,7 +255,7 @@ id="10.7"></span> 
 -   **Reading: *Principles of Management*: “Chapter 13, Section 5:
     Developing Your Team Skills -Exercises”**
     Link: *[Principles of
-    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 13, Section 5: Developing Your Team
     Skills -Exercises”  
         

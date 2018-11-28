@@ -120,7 +120,7 @@ id="1.4.1"></span> 
 -   **Reading: *Principles of Management*: “Chapter 2: Personality,
     Attitudes, and Work Behaviors”**
     Link: *[Principles of
-    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 2: Personality, Attitudes, and Work Behaviors”  
         
      Instructions: Read Chapter 2, “Personality, Attitudes, and Work
@@ -143,7 +143,7 @@ id="1.4.1"></span> 
 -   **Reading: *Principles of Management*: “Chapter 1, Section 6: Your
     Principles of Management Survivor’s Guide”**
     Link: *[Principles of
-    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 1, Section 6: Your Principles of Management
     Survivor’s Guide”  
         
@@ -179,7 +179,7 @@ id="1.4.1"></span> 
     Principles of Management Survivor’s Guide -Key Takeaway” and
     “Exercises”**
     Link: *[Principles of
-    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 1, Section 6: Your Principles of Management
     Survivor’s Guide -Key Takeaway and Exercises”  
         
@@ -200,7 +200,7 @@ id="1.4.1"></span> 
 -   **Reading: *Principles of Management*: “Chapter 10, Section 4:
     Leader-Member Exchange Theory”**
     Link: *[Principles of
-    Management](https://resources.saylor.org/archived/wp-content/uploads/2013/06/Principles%20of%20ManagementNEW.pdf)*
+    Management](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/Principles%20of%20ManagementNEW.pdf)*
     (PDF): “Chapter 10, Section 4: Leader-Member Exchange Theory”  
         
      Instructions: Read the “Leader-Member Exchange Theory” subsection

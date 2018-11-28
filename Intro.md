@@ -80,7 +80,7 @@ computer;
  √    have competency in the English language; and  
   
  √    have read the [Saylor Student
-Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
+Handbook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
 
 ### Course Information
 
@@ -96,7 +96,7 @@ following materials:
 -   Wikimedia Commons: Dirk Hünniger’s *[Managing Groups and
     Teams](http://upload.wikimedia.org/wikipedia/commons/4/42/Managing_Groups_and_Teams.pdf)*
 -   *[Principles of
-    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Management.pdf)*
 
 **Requirements for Completion: **In order to complete this course, you
 will need to work through each unit and all of its assigned materials.
