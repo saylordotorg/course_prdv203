@@ -26,7 +26,7 @@ Upon successful completion of this unit, you will be able to:
     “Section 2: Who Are Managers?” and “Section 4: Planning, Organizing,
     Leading, and Controlling”**
     Link: *[Principles of
-    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 1: Introduction,” “Section 1: Who Are Managers?” and
     “Section 3: Planning, Organizing, Leading, and Controlling”  
         
@@ -45,7 +45,7 @@ Upon successful completion of this unit, you will be able to:
 **2.2 Who are Managers?** <span id="2.2"></span> 
 -   **Activity: *Principles of Management*: “Chapter 1: Exercises”**
     Link: *[Principles of
-    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 1, Section 1: Who Are Managers? -Exercises”  
         
      Instructions: Review the introduction and “Who Are Mangers?”
@@ -66,7 +66,7 @@ id="2.3"></span> 
 -   **Activity: *Principles of Management*: “Chapter 1, Section 3:
     Planning, Organizing, Leading, and Controlling -Exercises”**
     Link: *[Principles of
-    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 1, Section 3: Planning, Organizing, Leading, and
     Controlling -Exercises”  
         

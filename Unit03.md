@@ -65,7 +65,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: *Principles of Management*: “Chapter 10: Leading People
     and Organizations”**
     Link: *[Principles of
-    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 10: Leading People and Organizations”  
         
      Instructions: Read Chapter 10, “Leading People and Organizations,”
@@ -106,7 +106,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Activity: *Principles of Management*: “Chapter 10, Section 1:
     Trait Approaches to Leadership -Exercises”**
     Link: *[Principles of
-    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 10, Section 1: Trait Approaches to
     Leadership -Exercises”  
         
@@ -175,7 +175,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Activity: *Principles of Management*: “Chapter 10, Section 5:
     Developing Your Leadership Skills − Exercises”**
     *[Principles of
-    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf) *(PDF):
+    Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Management.pdf) *(PDF):
     “Chapter 10, Section 5: Developing Your Leadership
     Skills -Exercises”  
         

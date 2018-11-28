@@ -50,7 +50,7 @@ Upon successful completion of this unit, you will be able to:
     “Section 1: Need-Based Theories of Motivation,” and “Section 2:
     Process-Based Theories”**
     Link: *[Principles of
-    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 14, Introduction,” “Section 1: Need-Based Theories
     of Motivation,” and “Section 2: Process-Based Theories”  
         
@@ -113,7 +113,7 @@ id="7.3"></span> 
 -   **Reading: *Principles of Management*: “Chapter 14, Section 3:
     Developing Your Personal Motivation Skills”**
     Link: *[Principles of
-    Management](https://resources.saylor.org/archived/textbooks/Principles%20of%20Management.pdf)*
+    Management](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Management.pdf)*
     (PDF): “Chapter 14, Section 3: Developing Your Personal Motivation
     Skills”  
         
